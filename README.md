@@ -6,10 +6,10 @@ This work was carried out as the part of the Overall Multidisciplinary Project i
 Team:\
 Oscar Wahlström\
 Camille Fournier\
-Yann Le Floch	\
+Yann Le Floch\
 Anujraaj Gopalsamy Sakthivel\
 
 
 Supervisors:\
-Manar Amayri	\		
+Manar Amayri\		
 Nana Kofi Baabu Twum Duah\	 
