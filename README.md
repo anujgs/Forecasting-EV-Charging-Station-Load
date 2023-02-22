@@ -6,7 +6,7 @@ Team:\
 Oscar Wahlström\
 Camille Fournier\
 Yann Le Floch\
-Anujraaj Gopalsamy Sakthivel\
+Anujraaj Gopalsamy Sakthivel
 
 Supervisors:\
 Manar Amayri\
