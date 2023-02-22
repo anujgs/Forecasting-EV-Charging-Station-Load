@@ -12,7 +12,7 @@ Anujraaj Gopalsamy Sakthivel
 
 Supervisors:\
 Manar Amayri\
-Nana Kofi Baabu Twum Duah\
+Nana Kofi Baabu Twum Duah
 
 <p align="justify"> The use of Renewable Energy Resources is increasing rapidly to meet the objectives of the energy transition, alongside the development of electric mobility with low-carbon electricity as a solution to reduce greenhouse gas emissions. However, the growth of electric vehicles (EVs) creates new constraints on the power grid, as the demand for electricity increases to charge these vehicles. According to RTE, by 2035, EVs will consume approximately 8% of France's total electricity production. Despite this, the increase in EVs also provides new flexibility opportunities for the grid, such as real-time load balancing and bidirectional charging with self-consumption of photovoltaic (PV) energy.
   
