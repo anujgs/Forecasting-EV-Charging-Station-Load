@@ -8,5 +8,5 @@ Camille Fournier\
 Yann Le Floch\
 Anujraaj Gopalsamy Sakthivel\
 Supervisors:\
-Manar Amayri\		
-Nana Kofi Baabu Twum Duah\	 
+Manar Amayri\
+Nana Kofi Baabu Twum Duah\
